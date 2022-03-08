@@ -1,0 +1,40 @@
+_repo: Thistledown-A-Book-of-Scotch-Humour-Character-Folk-lore-Story-Anecdote_67576
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Duncan, John
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '50363'
+    url: http://www.gutenberg.org/2009/agents/50363
+    wikipedia: https://en.wikipedia.org/wiki/John_Duncan_(painter)
+creator:
+  author:
+    agent_name: Blatchford, Robert
+    aliases:
+    - Macginnis, P.
+    - McGinnis, P.
+    birthdate: 1851
+    deathdate: 1943
+    gutenberg_agent_id: '1983'
+    url: http://www.gutenberg.org/2009/agents/1983
+    wikipedia: https://en.wikipedia.org/wiki/Robert_Blatchford
+description: ''
+gutenberg_issued: '2022-03-06'
+identifiers:
+  gutenberg: '67576'
+language: en
+pgterms:marc904: https://archive.org/details/thistledownbooko00ford/
+pgterms:marc905: 20210207072816ford
+pgterms:marc906: '1913'
+pgterms:marc907: GB
+production_note: Susan Skinner and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Alexander Gardner,1913,pubdate 1921.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Thistledown: A Book of Scotch Humour, Character, Folk-lore, Story & Anecdote'
+url: http://www.gutenberg.org/ebooks/67576
